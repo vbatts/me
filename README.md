@@ -6,10 +6,11 @@ The [img](./img/) directory of this repository contains more images that can be 
 
 ## Bio
 
-> Vincent Batts has spent half his life in Linux and open source communities.
+> Vincent Batts - CTO at Kinvolk, has spent most of his life in Linux and open source communities.
+> Works with emerging technology, largely related to Linux and software containers.
 > An Open Containers Initiative maintainer and technical board member.
-> An ongoing member on Slackware Linux's Core Team, past maintainer on the docker project, and the past maintainer of the Go compiler for Fedora and Red Hat.
-> He currently works in emerging technology in Red Hat CTO's Office. 
+> An ongoing member on Slackware Linux's Core Team, past maintainer on the docker project, and the past maintainer of the Go compiler for Fedora and RHEL.
+
 
 ## Online
 
