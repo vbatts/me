@@ -11,12 +11,11 @@ The [img](./img/) directory of this repository contains more images that can be 
 > An Open Containers Initiative maintainer and technical board member.
 > An ongoing member on Slackware Linux's Core Team, past maintainer on the docker project, and the past maintainer of the Go compiler for Fedora and RHEL.
 
-
 ## Online
 
-  * [keybase](https://keybase.io/vbatts)
-  * [Twitter](https://twitter.com/vbatts)
-  * [LinkedIn](https://www.linkedin.com/in/vincentbatts/)
+* [keybase](https://keybase.io/vbatts)
+* [Twitter](https://twitter.com/vbatts)
+* [LinkedIn](https://www.linkedin.com/in/vincentbatts/)
 
 ## Event Requests
 
@@ -33,4 +32,3 @@ Reach me at event@thisco.de with information on the following:
 ## Past Talks
 
 [Videos, Slides, and Timelines of past talks](https://github.com/vbatts/talks)
-
