@@ -17,18 +17,6 @@ The [img](./img/) directory of this repository contains more images that can be 
 * [Twitter](https://twitter.com/vbatts)
 * [LinkedIn](https://www.linkedin.com/in/vincentbatts/)
 
-## Event Requests
-
-Face to Face is my ideal.
-
-Reach me at event@thisco.de with information on the following:
-
-* name of the event
-* nature of the talks given
-* nature of the talk you would like from me
-* expected attendance numbers
-* link to your Code of Conduct
-
 ## Past Talks
 
 [Videos, Slides, and Timelines of past talks](https://github.com/vbatts/talks)
