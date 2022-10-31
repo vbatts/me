@@ -14,9 +14,10 @@ The [img](./img/) directory of this repository contains more images that can be 
 
 ## Online
 
-* [keybase](https://keybase.io/vbatts)
-* [Twitter](https://twitter.com/vbatts)
-* [LinkedIn](https://www.linkedin.com/in/vincentbatts/)
+* [keybase: vbatts](https://keybase.io/vbatts)
+* [fediverse: @vbatts@fosstodon.org](https://fosstodon.org/@vbatts)
+* [Twitter: vbatts](https://twitter.com/vbatts)
+* [LinkedIn: vincentbatts](https://www.linkedin.com/in/vincentbatts/)
 
 ## Past Talks
 
