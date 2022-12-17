@@ -14,10 +14,12 @@ The [img](./img/) directory of this repository contains more images that can be 
 
 ## Online
 
-* [keybase: vbatts](https://keybase.io/vbatts)
+* [personal: hashbangbash.com](https://hashbangbash.com)
+* [blog: blog.hashbangbash.com](https://blog.hashbangbash.com)
 * [fediverse: @vbatts@fosstodon.org](https://fosstodon.org/@vbatts)
-* [Twitter: vbatts](https://twitter.com/vbatts)
 * [LinkedIn: vincentbatts](https://www.linkedin.com/in/vincentbatts/)
+* [keybase: vbatts](https://keybase.io/vbatts)
+* [Twitter: vbatts](https://twitter.com/vbatts)
 
 ## Past Talks
 
